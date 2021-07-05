@@ -3,4 +3,4 @@
 </p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SloRunner&theme=darkhub&title=Stars,Followers,Commit,PullRequest,Repositories" alt="Github profile trophy's">
- </p>
+</p>
